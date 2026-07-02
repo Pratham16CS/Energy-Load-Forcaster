@@ -68,7 +68,7 @@ cd energy-load-forecaster
 Ensure you have Python installed, then run:
 
 ```bash
-pip install flask pandas numpy statsmodels scikit-learn
+pip install -r requirements.txt
 
 ```
 
