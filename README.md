@@ -7,12 +7,8 @@ An intelligent, time-series forecasting web application built to predict hourly 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Dashboard+Preview" width="48%" alt="Dashboard Preview" />
-  <img src="https://via.placeholder.com/400x250.png?text=Results+Table" width="48%" alt="Results Table" />
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Mobile+View" width="48%" alt="Mobile View" />
-  <img src="https://via.placeholder.com/400x250.png?text=Data+Chart" width="48%" alt="Data Chart" />
+  <img src="https://github.com/Pratham16CS/Energy-Load-Forcaster/blob/main/screenshot/dashboard.png" width="48%" alt="Dashboard Preview" />
+  <img src="https://github.com/Pratham16CS/Energy-Load-Forcaster/blob/main/screenshot/output.png" width="48%" alt="Results Table" />
 </p>
 ---
 
@@ -51,6 +47,7 @@ An intelligent, time-series forecasting web application built to predict hourly 
 │   └── index.html         # Frontend user interface
 ├── model.pkl              # Generated post-training (Fully converged weights)
 └── scaler.pkl             # Generated post-training (MinMax scaling bounds)
+└── data_study.ipynb       # Contains the data exploration and visualization stuff
 
 ```
 
