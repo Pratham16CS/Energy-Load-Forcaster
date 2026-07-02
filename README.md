@@ -4,13 +4,13 @@ An intelligent, time-series forecasting web application built to predict hourly 
 
 ---
 
-## 📸 Preview & Screenshots
+## 📸 Preview
 
 
-![Application Dashboard](https://via.placeholder.com/800x450.png?text=UI+Dashboard+Preview)
+![Application Dashboard](https://github.com/Pratham16CS/Energy-Load-Forcaster/blob/main/screenshot/dashboard.png)
 > *The main dashboard where users input start/end timestamps and forecasted temperatures.*
 
-![Prediction Results](https://via.placeholder.com/800x450.png?text=Prediction+Results+Table)
+![Prediction Results](https://github.com/Pratham16CS/Energy-Load-Forcaster/blob/main/screenshot/output.png)
 > *The model dynamically outputs unscaled, real-world energy load predictions within a clean, animated UI.*
 
 ---
